@@ -56,4 +56,8 @@ url: https://cdn.phototourl.com/free/2026-09-10-c0c99074-3b9b-4cb7-9e07-58418e78
 ### Ejercicio 7: Análisis Comparativo de Almacenamiento con du y df
 ![Ejercicio 7](evidencias/evidencia_ejercicio7_dudf.png)
 
+## Conclusión 
+
+Este laboratorio me permitió entender cómo se administran y aseguran los datos en un servidor Linux real usando solo la terminal. Logré estructurar el repositorio, protegerlo asignando los permisos correctos a cada grupo de trabajo (chmod y chgrp) y asegurar su respaldo mediante compresión (tar) y transferencia segura (scp).Además, la gestión de procesos con kill y el análisis de espacio con du y df me ayudaron a ver cómo controlar los recursos del sistema en tiempo real. 
+
 
