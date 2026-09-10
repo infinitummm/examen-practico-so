@@ -35,6 +35,12 @@
 ### Ejercicio 2: Descarga con wget y Archivos de Prueba
 ![Ejercicio 2](evidencias/evidencia_ejercicio2_wget.png)
 
+### Ejercicio 2.1: Imagen seleccionada junto a su URL
+
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/041eaca0-dcd5-4734-bae9-98ef88d5a891" />
+
+url: https://cdn.phototourl.com/free/2026-09-10-c0c99074-3b9b-4cb7-9e07-58418e78ddb7.jpg
+
 ### Ejercicio 3: Configuración de Grupos y Permisos Diferenciados
 ![Ejercicio 3](evidencias/evidencia_ejercicio3_permisos.png)
 
