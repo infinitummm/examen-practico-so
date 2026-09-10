@@ -14,7 +14,6 @@
 ---
 
 ##  Comandos importantes
-| Comando |
 | `wget` | 
 | `scp` | 
 | `tar` / `gzip` | 
