@@ -1,8 +1,7 @@
-# Examen Práctico — Administración Avanzada de Sistemas Operativos
+# Parcial
 
 **Estudiante:** Javier Felipe Rosero Sandoval  
-**Asignatura:** Administración Avanzada de Sistemas Operativos  
-**Fecha:** Septiembre 2026  
+**Asignatura:** Sistemas Operativos  
 
 ---
 
